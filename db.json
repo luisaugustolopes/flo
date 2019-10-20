@@ -2,6 +2,6 @@
     "configuracao": {
             "url": "null",
             "autorizado": false,
-            "mensagem": "Roadmap. 2019. Info error: Estabelecendo informações de conexão com os servidores"
+            "mensagem": "Falha na comunicação com o servidor. "
     }
 }

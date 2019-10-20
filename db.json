@@ -1,7 +1,7 @@
 {
     "configuracao": {
             "url": "null",
-            "autorizado": true,
-            "mensagem": "Estabelecendo informações de conexão com os servidores"
+            "autorizado": false,
+            "mensagem": "Roadmap. 2019. Info error: Estabelecendo informações de conexão com os servidores"
     }
 }

@@ -1,5 +1,7 @@
 {
-"url": "null",
-        "autorizado": false,
-        "mensagem": "Estabelecendo conexão com o servidor Omie"
-        }
+    "configuracao": {
+            "url": "null",
+            "autorizado": true,
+            "mensagem": "Estabelecendo informações de conexão com os servidores"
+    }
+}
